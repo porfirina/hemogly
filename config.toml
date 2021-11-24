@@ -2,5 +2,4 @@ baseURL = 'https://porfirina.github.io/hemogly/'
 languageCode = 'en-us'
 title = 'Hemogly'
 theme = 'airspace-hugo'
-relURL = 'https://porfirina.github.io/hemogly/'
 
