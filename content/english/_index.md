@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/Marian_Hemogly.jpg"
+  bg_image: "static/images/Marian_Hemogly.jpg"
   bg_overlay: true
   title: "HEMOGLY"
   content: "Rapid and early diagnosis for diabetes mellitus within the reach of the population"
