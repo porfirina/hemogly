@@ -57,7 +57,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/_MG_4294.jpg"
+  bg_image: "images/MG4294.jpg"
   title: "Tú opinión nos interesa"
   content: "Para más información no dudes en contactarnos, estamos a su disposición."
   button:
