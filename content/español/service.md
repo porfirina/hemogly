@@ -40,7 +40,7 @@ featured_service:
     - name : "Diagnóstico"
       icon : "fas fa-tint"
       color : "primary"
-      content : "Diagnostico de la diabetes mellitus utilizando una gota de sangre."
+      content : "Diagnóstico de la diabetes mellitus utilizando una gota de sangre."
 
     # featured service item loop
     - name : "Asesoría"
