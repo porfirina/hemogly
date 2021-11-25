@@ -1,0 +1,49 @@
+############# Español navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = ""
+weight = 1
+
+[[main]]
+name = "Acerca"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Proyecto"
+url = "project/"
+weight = 3
+
+[[main]]
+name = "Servicio"
+url = "service/"
+weight = 4
+  
+[[main]]
+name = "Contacto"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "Acerca"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Proyectot"
+url = "project/"
+weight = 3
+
+[[footer]]
+name = "Servicio"
+url = "service/"
+weight = 4
+
+[[footer]]
+name = "Contacto"
+url = "contact/"
+weight = 5
