@@ -38,9 +38,6 @@ portfolio:
 
 
   Ecónomico y Accesible para la mayoría de la población.
-
-
-  Democratiza el acceso a la de salud.
   "
   button:
     enable: false
@@ -58,8 +55,8 @@ service:
 cta:
   enable: true
   bg_image: "images/MG4294.jpg"
-  title: "Tú opinión nos interesa"
-  content: "Para más información no dudes en contactarnos, estamos a su disposición."
+  title: "Tu opinión nos interesa"
+  content: "Para más información no dudes en contactarnos, estamos a tu disposición."
   button:
     enable: true
     label: "¡Escríbenos!"

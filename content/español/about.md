@@ -10,14 +10,14 @@ draft: false
 about:
   enable : true
   image : "images/hemoglyteam.png"
-  title : "¿Quiénes Sómos?"
+  title : "¿Quiénes Somos?"
   content : "Somos un equipo interdisciplinario de cientificos y profesionales con el objetivo de aplicar nuestros conocimientos para otorgar bienes y servicios en pos de mejorar la calidad de vida de los pacientes con diabetes mellitus.
 
 
-  Nuestro proyecto surge respecto a una problemática sanitaria: detectar de forma rápida, temprana y barata la enfermedad de diabetes, la cual es la cuarta causa de muerte en latinoamérica.
+  Nuestro proyecto surge respecto a una problemática sanitaria: detectar de forma rápida, temprana y barata la enfermedad de diabetes, la cual es la cuarta causa de muerte en Latinoamérica.
 
 
-  Seguiremos trabajando para que más personas tengan la accesibilidad del diagnóstico precoz haciendo frente a la patología aún cuando no se hayan desarrollados los sintomas."
+  Seguiremos trabajando para que más personas tengan acceso a un diagnóstico precoz haciendo frente a la patología aún cuando no se hayan desarrollados los síntomas."
 
   button:
     enable : false

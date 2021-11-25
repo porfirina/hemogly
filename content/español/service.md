@@ -25,10 +25,10 @@ about:
   ### Seguimiento y control para pacientes diabéticos
   
   
-  ### Inovación tecnológica
+  ### Innovación tecnológica
   
   
-  ### Aseguramiento de la calidad"
+  ### Garantía de calidad"
   image : "images/pipeta.jpg"
 
 
