@@ -8,15 +8,27 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  title : "¿Qué Ofrecemos?"
+  content : " 
+  ### Equipos medidores de hemoglobina glicosilada - HEMOGLY 
+  
+  
+  ### Chips reactivos consumibles para la medición
+  
+  
+  ### Asesoría técnica para profesionales de la salud
+  
+  
+  ### Atención personalizada 
+  
+  
+  ### Seguimiento y control para pacientes diabéticos
+  
+  
+  ### Inovación tecnológica
+  
+  
+  ### Aseguramiento de la calidad"
   image : "images/pipeta.jpg"
 
 
@@ -25,22 +37,22 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Diagnosis"
+    - name : "Diagnóstico"
       icon : "fas fa-tint"
       color : "primary"
-      content : "Diagnosis of diabetes mellitus using only a drop of blood."
+      content : "Diagnostico de la diabetes mellitus utilizando una gota de sangre."
 
     # featured service item loop
-    - name : "Advice"
+    - name : "Asesoría"
       icon : "fas fa-comments"
       color : "primary-dark"
-      content : "Provide scientific technical knowledge to our clients."
+      content : "Brindar conocimiento científico-técnico a nuestros clientes."
 
     # featured service item loop
-    - name : "Innovation"
+    - name : "Inovación"
       icon : "fas fa-flask"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Desarrollo constante optimizando la accesibilidad y simplicidad de nuestros productos."
 
 
 ############################# Service ###############################
