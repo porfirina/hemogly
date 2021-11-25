@@ -1,39 +1,39 @@
-############# English navigation ##############
+############# Español navigation ##############
 
 # main menu
 [[main]]
-name = "Home"
+name = "Inicio"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
+name = "Nosotros"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Service"
+name = "Servicios"
 url = "service/"
 weight = 3
   
 [[main]]
-name = "Contact"
+name = "Contacto"
 url = "contact/"
 weight = 4
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "Acerca"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Service"
+name = "Servicios"
 url = "service/"
 weight = 3
 
 [[footer]]
-name = "Contact"
+name = "Contacto"
 url = "contact/"
 weight = 4

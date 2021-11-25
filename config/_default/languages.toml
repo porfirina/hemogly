@@ -1,13 +1,6 @@
 ################ Español language ##################
-[es]
-languageName = "Español"
-languageCode = "es-ES"
-contentDir = "content/español"
-weight = 1
-
-################# English language ################
 [en]
 languageName = "English"
 languageCode = "en-US"
-contentDir = "content/english"
-weight = 2
+contentDir = "content/español"
+weight = 1
