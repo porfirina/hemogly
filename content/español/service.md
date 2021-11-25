@@ -1,5 +1,5 @@
 ---
-title: "Service"
+title: "Servicios"
 description: ""
 bg_image: "images/pipeta.jpg"
 layout: "service"

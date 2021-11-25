@@ -1,6 +1,6 @@
 ---
-title: "About Us"
-description: "We are a group of scientists and professionals addressing areas such as chemistry, engineering, pharmaceuticals, nanotechnology, biochemistry and economics with a common goal, to develop technological innovation for the benefit of society."
+title: "Acerca de Nosotros"
+description: "Somos un grupo de científicos y profesionales que abordan áreas como la química, la ingeniería, la farmacéutica, la nanotecnología, la bioquímica y la economía con un objetivo común, desarrollar la innovación tecnológica en beneficio de la sociedad."
 bg_image: "images/hemoglyup.jpeg"
 layout: "about"
 draft: false
@@ -10,7 +10,7 @@ draft: false
 about:
   enable : true
   image : "images/hemoglyteam.png"
-  title : "We strive to be the best and <br> make awesome work."
+  title : "¿Quiénes Sómos?"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
 
 

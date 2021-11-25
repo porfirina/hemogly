@@ -7,17 +7,17 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Acerca"
+name = "Nosotros"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Proyecto"
-url = "project/"
+name = "Blog"
+url = "blog/"
 weight = 3
 
 [[main]]
-name = "Servicio"
+name = "Servicios"
 url = "service/"
 weight = 4
   
@@ -34,12 +34,12 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Proyectot"
-url = "project/"
+name = "Blog"
+url = "blog/"
 weight = 3
 
 [[footer]]
-name = "Servicio"
+name = "Servicios"
 url = "service/"
 weight = 4
 

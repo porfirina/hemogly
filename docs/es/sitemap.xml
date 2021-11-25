@@ -75,18 +75,6 @@
                 href="https://porfirina.github.io/hemogly/es/categories/"
                 />
   </url><url>
-    <loc>https://porfirina.github.io/hemogly/es/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://porfirina.github.io/hemogly/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://porfirina.github.io/hemogly/es/contact/"
-                />
-  </url><url>
     <loc>https://porfirina.github.io/hemogly/es/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -229,6 +217,30 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://porfirina.github.io/hemogly/es/tags/"
+                />
+  </url><url>
+    <loc>https://porfirina.github.io/hemogly/es/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://porfirina.github.io/hemogly/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://porfirina.github.io/hemogly/es/contact/"
+                />
+  </url><url>
+    <loc>https://porfirina.github.io/hemogly/es/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://porfirina.github.io/hemogly/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://porfirina.github.io/hemogly/es/blog/"
                 />
   </url>
 </urlset>

@@ -7,7 +7,7 @@ bg_image: "images/feature-bg.jpg"
 categories: ["Legacy Support"]
 tags: ["Android","Retro"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 
