@@ -1,6 +1,6 @@
 ---
 title: "Acerca de Nosotros"
-description: "Somos un grupo de científicos y profesionales que abordan áreas como la química, la ingeniería, la farmacéutica, la nanotecnología, la bioquímica y la economía con un objetivo común, desarrollar la innovación tecnológica en beneficio de la sociedad."
+description: ""
 bg_image: "images/hemoglyup.jpeg"
 layout: "about"
 draft: false
@@ -11,12 +11,13 @@ about:
   enable : true
   image : "images/hemoglyteam.png"
   title : "¿Quiénes Sómos?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  content : "Somos un equipo interdisciplinario de cientificos y profesionales con el objetivo de aplicar nuestros conocimientos para otorgar bienes y servicios en pos de mejorar la calidad de vida de los pacientes con diabetes mellitus.
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Nuestro proyecto surge respecto a una problemática sanitaria: detectar de forma rápida, temprana y barata la enfermedad de diabetes, la cual es la cuarta causa de muerte en latinoamérica.
+
+
+  Seguiremos trabajando para que más personas tengan la accesibilidad del diagnóstico precoz haciendo frente a la patología aún cuando no se hayan desarrollados los sintomas."
 
   button:
     enable : false

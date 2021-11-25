@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "We are a group of scientists and professionals addressing areas such as chemistry, engineering, pharmaceuticals, nanotechnology, biochemistry and economics with a common goal, to develop technological innovation for the benefit of society."
+description: ""
 bg_image: "images/hemoglyup.jpeg"
 layout: "about"
 draft: false
@@ -10,13 +10,14 @@ draft: false
 about:
   enable : true
   image : "images/hemoglyteam.png"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "The Team"
+  content : "We are an interdisciplinary team of scientists and professionals with the aim of applying our knowledge to provide goods and services in order to improve the quality of life of patients with diabetes mellitus.
 
 
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  Our project arises with regard to a health problem: to quickly, early and cheaply detect diabetes disease, which is the fourth cause of death in Latin America.
+
+
+  We will continue working so that more people have the accessibility of early diagnosis by facing the pathology even when symptoms have not developed."
 
   button:
     enable : false

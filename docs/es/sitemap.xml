@@ -230,17 +230,5 @@
                 hreflang="es"
                 href="https://porfirina.github.io/hemogly/es/contact/"
                 />
-  </url><url>
-    <loc>https://porfirina.github.io/hemogly/es/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://porfirina.github.io/hemogly/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://porfirina.github.io/hemogly/es/blog/"
-                />
   </url>
 </urlset>

@@ -15,7 +15,7 @@ banner:
 about:
   enable: true
   title: "Acerca de nosotros"
-  description: "Somos un grupo de científicos y profesionales que abordan áreas como la química, la ingeniería, la farmacéutica, la nanotecnología, la bioquímica y la economía con un objetivo común: desarrollar la innovación tecnológica en beneficio de la sociedad."
+  description: "Somos un grupo de científicos y profesionales que abordan áreas como la química, la ingeniería, la farmacéutica, la nanotecnología, la bioquímica y la economía con un objetivo en común: desarrollar la innovación tecnológica en beneficio de la sociedad."
   content: "."
   image: "images/marian_ro.jpg" 
 
@@ -25,13 +25,22 @@ portfolio:
   enable: true
   bg_image: "images/hemogly02.jpg"
   title: "EL PRODUCTO"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  content: " El equipo es portátil, seguro, liviano y fácil de usar.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Sólo requiere de una gotita de sangre para llevar a cabo el análisis.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Mide la cantidad de hemoglobina glicosilada (Hb1Ac) en sangre utilizando nanotecnología.
+
+
+  NO es tóxico y NO es invasivo.
+
+
+  Ecónomico y Accesible para la mayoría de la población.
+
+
+  Democratiza el acceso a la de salud.
   "
   button:
     enable: false
@@ -48,12 +57,12 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/_MG_4294.jpg"
   title: "Tú opinión nos interesa"
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  content: "Para más información no dudes en contactarnos, estamos a su disposición."
   button:
     enable: true
-    label: "Contáctanos"
+    label: "¡Escríbenos!"
     link: "contact"
 
 ############################# Funfacts ###############################

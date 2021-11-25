@@ -101,11 +101,6 @@ expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
 
-######################## sidebar widgets #########################
-[widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-# available widget : categories,tags,recent-post
-
 ############################# social site ########################
 [[social]]
 title = "twitter"

@@ -99,18 +99,6 @@
                 href="https://porfirina.github.io/hemogly/author/john-doe/"
                 />
   </url><url>
-    <loc>https://porfirina.github.io/hemogly/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://porfirina.github.io/hemogly/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://porfirina.github.io/hemogly/blog/"
-                />
-  </url><url>
     <loc>https://porfirina.github.io/hemogly/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"

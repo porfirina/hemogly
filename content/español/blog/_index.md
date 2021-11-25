@@ -1,6 +1,6 @@
 ---
 title: "Últimas Noticias"
 description: ""
-draft: false
-bg_image: "images/feature-bg.jpg"
+draft: true
+bg_image: "images/DSC_0799.JPG"
 ---
