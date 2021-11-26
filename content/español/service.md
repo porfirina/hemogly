@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "¿Qué Ofrecemos?"
+  title : "¿Qué ofrecemos?"
   content : " 
   ### Equipos medidores de hemoglobina glicosilada - HEMOGLY 
   
@@ -49,7 +49,7 @@ featured_service:
       content : "Brindar conocimiento científico-técnico a nuestros clientes."
 
     # featured service item loop
-    - name : "Inovación"
+    - name : "Innovación"
       icon : "fas fa-flask"
       color : "primary-darker"
       content : "Desarrollo constante optimizando la accesibilidad y simplicidad de nuestros productos."
